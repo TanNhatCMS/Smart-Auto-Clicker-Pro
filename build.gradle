@@ -55,7 +55,7 @@ ext {
 
     // AndroidX dependencies
     androidxAppCompatVersion = '1.6.1'
-    androidxAnnotationVersion = '1.7.0'
+    androidxAnnotationVersion = '1.10.0'
     androidxCardViewVersion = '1.0.0'
     androidxConstraintLayoutVersion = '2.1.4'
     androidxCoreVersion = '1.12.0'
