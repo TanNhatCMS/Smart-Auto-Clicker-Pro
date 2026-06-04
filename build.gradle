@@ -58,7 +58,7 @@ ext {
     androidxAnnotationVersion = '1.7.0'
     androidxCardViewVersion = '1.0.0'
     androidxConstraintLayoutVersion = '2.1.4'
-    androidxCoreVersion = '1.12.0'
+    androidxCoreVersion = '1.19.0'
     androidxFragmentVersion = '1.6.2'
     androidxLifecycleVersion = '2.6.2'
     androidxLifecycleExtensionVersion = '2.2.0'
