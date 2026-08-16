@@ -54,7 +54,7 @@ ext {
     minSdkVersion = 24
 
     // AndroidX dependencies
-    androidxAppCompatVersion = '1.6.1'
+    androidxAppCompatVersion = '1.8.0'
     androidxAnnotationVersion = '1.7.0'
     androidxCardViewVersion = '1.0.0'
     androidxConstraintLayoutVersion = '2.1.4'
